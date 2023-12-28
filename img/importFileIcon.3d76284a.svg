@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #444444;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="组_7030" data-name="组 7030" transform="translate(-35 -349)">
+    <g id="矩形_3585" data-name="矩形 3585" class="cls-1" transform="translate(35 349)">
+      <rect class="cls-3" width="16" height="16"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="15" height="15"/>
+    </g>
+    <g id="组_7029" data-name="组 7029" transform="translate(-579.375 126.813)">
+      <path id="减去_84" data-name="减去 84" class="cls-2" d="M14.779,14.162h-14A.78.78,0,0,1,0,13.385V.777A.78.78,0,0,1,.779,0H5.695a.785.785,0,0,1,.573.254l1.14,1.24a.76.76,0,0,0,.573.254h6.8a.779.779,0,0,1,.779.775V13.385A.78.78,0,0,1,14.779,14.162ZM5.261,7.635a.634.634,0,1,0,0,1.268h3.51l-.716.715a.631.631,0,0,0,0,.9A.627.627,0,0,0,8.5,10.7a.617.617,0,0,0,.451-.184l1.8-1.8a.691.691,0,0,0,0-.943l-1.8-1.8a.635.635,0,0,0-1.083.455.621.621,0,0,0,.187.441l.764.764Z" transform="translate(614.595 223.105)"/>
+    </g>
+  </g>
+</svg>

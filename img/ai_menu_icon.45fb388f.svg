@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.2" height="17.693" viewBox="0 0 17.2 17.693">
+  <g id="组_21734" data-name="组 21734" transform="translate(-1093.9 -576.307)">
+    <g id="椭圆_2201" data-name="椭圆 2201" transform="translate(1096 579)" fill="#fff" stroke="#333" stroke-width="1.2">
+      <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+      <circle cx="6.5" cy="6.5" r="5.9" fill="none"/>
+    </g>
+    <g id="矩形_14956" data-name="矩形 14956" transform="translate(1094 589)" fill="#fff" stroke="#333" stroke-width="1.2">
+      <rect width="17" height="5" rx="2" stroke="none"/>
+      <rect x="0.6" y="0.6" width="15.8" height="3.8" rx="1.4" fill="none"/>
+    </g>
+    <g id="椭圆_2202" data-name="椭圆 2202" transform="translate(1099 583)" fill="#fff" stroke="#333" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <line id="直线_888" data-name="直线 888" x1="2" y1="2" transform="translate(1097.5 577.5)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1"/>
+    <g id="椭圆_2203" data-name="椭圆 2203" transform="translate(1104 583)" fill="#fff" stroke="#333" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+    <line id="直线_889" data-name="直线 889" y1="3" x2="2" transform="translate(1105 577)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1"/>
+    <line id="直线_890" data-name="直线 890" y2="5" transform="translate(1094.5 582.5)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.2"/>
+    <line id="直线_891" data-name="直线 891" y2="5" transform="translate(1110.5 582.5)" fill="none" stroke="#333" stroke-linecap="round" stroke-width="1.2"/>
+  </g>
+</svg>

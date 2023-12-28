@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="89" viewBox="0 0 89 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8d8d8;
+        stroke: #979797;
+        opacity: 0;
+      }
+
+      .cls-1, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #7287fb;
+      }
+
+      .cls-3 {
+        fill: #5f73e6;
+      }
+
+      .cls-4 {
+        fill: #93ff7f;
+      }
+
+      .cls-5 {
+        fill: #6ae254;
+      }
+
+      .cls-6 {
+        fill: #f75151;
+      }
+
+      .cls-7 {
+        fill: #d62f2f;
+      }
+
+      .cls-8 {
+        fill: #333;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #333;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="编组_16" data-name="编组 16" transform="translate(0.5 0.5)">
+    <rect id="矩形备份" class="cls-1" width="88" height="88"/>
+    <g id="编组_11" data-name="编组 11" transform="translate(7 14)">
+      <g id="编组_9" data-name="编组 9">
+        <g id="编组_6" data-name="编组 6" transform="translate(51.268 16.248)">
+          <rect id="矩形" class="cls-2" width="7.071" height="41.056" transform="translate(0 3.026)"/>
+          <path id="矩形备份_3" data-name="矩形备份 3" class="cls-3" d="M0,2.887.884,0V43.014L0,43.944Z" transform="translate(7.071 0.139)"/>
+          <path id="矩形-2" data-name="矩形" class="cls-3" d="M1.878.139H7.955L7.071,3.026H0Z" transform="translate(0 0)"/>
+        </g>
+        <g id="编组_6备份" data-name="编组 6备份" transform="translate(12.375 19.762)">
+          <rect id="矩形-3" data-name="矩形" class="cls-4" width="7.071" height="38.929" transform="translate(0 1.64)"/>
+          <path id="矩形备份_3-2" data-name="矩形备份 3" class="cls-5" d="M-.025,1.531.884,0V39.575L0,40.43Z" transform="translate(7.071 0.139)"/>
+          <path id="矩形-4" data-name="矩形" class="cls-5" d="M1.878.139H7.955l-.884,1.5H0Z"/>
+        </g>
+        <g id="编组_6-2" data-name="编组 6" transform="translate(31.821 7.625)">
+          <rect id="矩形-5" data-name="矩形" class="cls-6" width="7.071" height="51.066" transform="translate(0 1.779)"/>
+          <path id="矩形备份_3-3" data-name="矩形备份 3" class="cls-7" d="M-.014,1.321,1.713,0l.055,51.277L0,52.4Z" transform="translate(7.071 0.445)"/>
+          <path id="矩形-6" data-name="矩形" class="cls-7" d="M1.7.223H8.784L7.071,1.556H0Z" transform="translate(0 0.223)"/>
+        </g>
+        <path id="三角形备份" class="cls-8" d="M2.965.346a.176.176,0,0,1,.315,0L6.1,6a.175.175,0,0,1-.157.253H.3A.175.175,0,0,1,.141,6Z"/>
+      </g>
+      <path id="路径" class="cls-9" d="M71,56H0V0" transform="translate(3 4)"/>
+    </g>
+  </g>
+</svg>

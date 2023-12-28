@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="ziyuan3" unicode="&#58883;" d="M463.644444 896h104.675556v-258.275556H463.644444zM354.986667 637.724444h322.56L515.982222 428.373333 354.986667 637.724444zM463.644444 130.275556h104.675556V-128H463.644444zM354.986667 130.275556h322.56L515.982222 339.626667l-160.995555-209.351111zM0 436.337778h258.275556v-104.675556H0zM258.275556 222.435556V544.995556L467.626667 384l-209.351111-161.564444zM765.724444 436.337778H1024v-104.675556h-258.275556zM765.724444 222.435556V544.995556L556.373333 384l209.351111-161.564444z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="ziyuan5" unicode="&#58885;" d="M512 896a512 512 0 1 1 512-512 512 512 0 0 1-512 512z m227.555556-568.888889H284.444444V440.888889h455.111112z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="ziyuan6" unicode="&#58886;" d="M512 896a512 512 0 1 1 512-512 512 512 0 0 1-512 512z m227.555556-568.888889h-170.666667v-170.666667H455.111111v170.666667H284.444444V440.888889h170.666667V611.555556h113.777778v-170.666667h170.666667z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19228" data-name="组 19228" transform="translate(22515 18671)">
+    <g id="矩形_13450" data-name="矩形 13450" class="cls-1" transform="translate(-22515 -18671)">
+      <rect class="cls-4" width="22" height="22"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="21" height="21"/>
+    </g>
+    <g id="组_4000" data-name="组 4000" transform="translate(-22655.477 -18819.875)">
+      <path id="路径_5543" data-name="路径 5543" class="cls-2" d="M145.758,158h6.258c2.244,0,4.063,2.085,4.063,4.658h0c0,2.573-1.819,4.658-4.063,4.658h-6.094" transform="translate(1.472 -0.441)"/>
+      <rect id="矩形_2338" data-name="矩形 2338" class="cls-3" width="1.371" height="6.62" rx="0.685" transform="translate(145.403 157.5) rotate(-45)"/>
+      <rect id="矩形_2339" data-name="矩形 2339" class="cls-3" width="1.371" height="6.62" rx="0.685" transform="translate(146.373 158.525) rotate(-135)"/>
+    </g>
+  </g>
+</svg>

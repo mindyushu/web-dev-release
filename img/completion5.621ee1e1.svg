@@ -1,0 +1,26 @@
+<svg id="组_17409" data-name="组 17409" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #20b759;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #20b759;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <path id="减去_85" data-name="减去 85" class="cls-1" d="M8,0H8A8,8,0,1,0,8,16V0Z" transform="translate(16 15.998) rotate(180)"/>
+  <g id="椭圆_1044" data-name="椭圆 1044" class="cls-2">
+    <circle class="cls-3" cx="8" cy="8" r="8"/>
+    <circle class="cls-4" cx="8" cy="8" r="7.5"/>
+  </g>
+</svg>

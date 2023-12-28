@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1.1px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.2px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19850" data-name="组 19850" transform="translate(-1195 -702)">
+    <g id="矩形_637" data-name="矩形 637" class="cls-1" transform="translate(1195 702)">
+      <rect class="cls-5" width="18" height="18"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="17" height="17"/>
+    </g>
+    <g id="组_19586" data-name="组 19586" transform="translate(1452.794 470.124)">
+      <path id="路径_24861" data-name="路径 24861" class="cls-2" d="M-219.839,266.977l4.478-3.973a.113.113,0,0,0,.029-.154l-.851-.958a.113.113,0,0,0-.157.011l-4.482,3.976a.151.151,0,0,0-.045.071l-.165.615-.144.537a.083.083,0,0,0,.1.109l.55-.079.619-.118A.151.151,0,0,0-219.839,266.977Z" transform="translate(-26.773 -21.347)"/>
+      <path id="路径_24862" data-name="路径 24862" class="cls-3" d="M-242.105,241.5l-.851-.959a.113.113,0,0,0-.157.011l-2.273,2.017V234.72a.22.22,0,0,0-.22-.22h-9.674a.22.22,0,0,0-.22.22v12.313a.22.22,0,0,0,.22.22h9.674a.22.22,0,0,0,.22-.22v-2.492l3.251-2.885A.113.113,0,0,0-242.105,241.5Z" transform="translate(0 0)"/>
+    </g>
+    <rect id="矩形_13718" data-name="矩形 13718" class="cls-4" width="6.471" height="1.2" rx="0.6" transform="translate(1199.332 707.312)"/>
+    <rect id="矩形_13719" data-name="矩形 13719" class="cls-4" width="4.985" height="1.2" rx="0.6" transform="translate(1199.332 710.376)"/>
+    <rect id="矩形_13720" data-name="矩形 13720" class="cls-4" width="3.985" height="1.2" rx="0.6" transform="translate(1199.332 713.376)"/>
+  </g>
+</svg>

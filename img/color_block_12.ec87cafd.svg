@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #012ba1;
+      }
+
+      .cls-2 {
+        fill: #0141cb;
+      }
+
+      .cls-3 {
+        fill: #3882ed;
+      }
+
+      .cls-4 {
+        fill: #119af4;
+      }
+
+      .cls-5 {
+        fill: #18c6fe;
+      }
+
+      .cls-6 {
+        fill: #1fb4ec;
+      }
+
+      .cls-7 {
+        fill: #1497fb;
+      }
+    </style>
+  </defs>
+  <g id="组_2171" data-name="组 2171" transform="translate(-3835.5 871.5)">
+    <rect id="矩形备份_70" data-name="矩形备份 70" class="cls-1" width="88" height="13" transform="translate(3835.5 -871.5)"/>
+    <rect id="矩形备份_71" data-name="矩形备份 71" class="cls-2" width="88" height="12" transform="translate(3835.5 -858.5)"/>
+    <rect id="矩形备份_72" data-name="矩形备份 72" class="cls-3" width="88" height="13" transform="translate(3835.5 -846.5)"/>
+    <rect id="矩形备份_73" data-name="矩形备份 73" class="cls-4" width="88" height="12" transform="translate(3835.5 -833.5)"/>
+    <rect id="矩形备份_74" data-name="矩形备份 74" class="cls-5" width="88" height="13" transform="translate(3835.5 -821.5)"/>
+    <rect id="矩形备份_75" data-name="矩形备份 75" class="cls-6" width="88" height="12" transform="translate(3835.5 -808.5)"/>
+    <rect id="矩形备份_76" data-name="矩形备份 76" class="cls-7" width="88" height="13" transform="translate(3835.5 -796.5)"/>
+  </g>
+</svg>

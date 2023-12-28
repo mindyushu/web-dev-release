@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="10" viewBox="0 0 7 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_823" data-name="组 823" transform="translate(-1851 -344)">
+    <rect id="矩形_441" data-name="矩形 441" class="cls-1" width="6" height="1" transform="translate(1852 344)"/>
+    <rect id="矩形_442" data-name="矩形 442" class="cls-1" width="6" height="1" transform="translate(1851 353)"/>
+    <path id="路径_579" data-name="路径 579" class="cls-1" d="M1,0H2L0,10H-.981Z" transform="translate(1854 344)"/>
+  </g>
+</svg>

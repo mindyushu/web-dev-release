@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #333;
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #333;
+      }
+
+      .cls-4 {
+        stroke: rgba(0,0,0,0);
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19255" data-name="组 19255" transform="translate(-307 -168)">
+    <g id="组_19230" data-name="组 19230" transform="translate(122 173)">
+      <g id="矩形_2344" data-name="矩形 2344" class="cls-1" transform="translate(185 -5)">
+        <rect class="cls-5" width="22" height="22"/>
+        <rect class="cls-6" x="0.5" y="0.5" width="21" height="21"/>
+      </g>
+    </g>
+    <g id="组_19231" data-name="组 19231" transform="translate(311.5 172.412)">
+      <path id="路径_5545" data-name="路径 5545" class="cls-2" d="M439.264,192.05a2.016,2.016,0,0,0,2.016,2.016h7.128a2.015,2.015,0,0,0,2.016-2.016v-9.144a2.016,2.016,0,0,0-2.016-2.016h-6.5" transform="translate(-437.424 -180.89)"/>
+      <g id="组_4005" data-name="组 4005" transform="translate(0 3.001)">
+        <rect id="矩形_2341" data-name="矩形 2341" class="cls-3" width="8.201" height="1.5" rx="0.75" transform="translate(0.309 2.66)"/>
+        <path id="联合_101" data-name="联合 101" class="cls-4" d="M22990.982,18663.4l-1.879-2.045a.474.474,0,0,1-.059-.051.749.749,0,0,1-.227-.445s0,0,0-.008v0a.752.752,0,0,1,.234-.658.787.787,0,0,1,.063-.051l1.916-2.014a.752.752,0,0,1,1.09,1.037l-1.523,1.6,1.49,1.621a.754.754,0,0,1-.041,1.061.735.735,0,0,1-.506.2A.757.757,0,0,1,22990.982,18663.4Z" transform="translate(-22989 -18657.361)"/>
+      </g>
+    </g>
+  </g>
+</svg>

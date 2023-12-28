@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="22" viewBox="0 0 36 22">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_5914" data-name="组 5914" transform="translate(-1180 -448)">
+    <g id="矩形_3090" data-name="矩形 3090" class="cls-1" transform="translate(1180 448)">
+      <rect class="cls-4" width="36" height="22"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="35" height="21"/>
+    </g>
+    <g id="组_5910" data-name="组 5910" transform="translate(-40 -7)">
+      <g id="矩形_2705" data-name="矩形 2705" class="cls-2" transform="translate(1231 469)">
+        <rect class="cls-4" width="14" height="5" rx="1"/>
+        <rect class="cls-5" x="0.5" y="0.5" width="13" height="4" rx="0.5"/>
+      </g>
+      <g id="矩形_3097" data-name="矩形 3097" class="cls-2" transform="translate(1231 459)">
+        <rect class="cls-4" width="14" height="5" rx="1"/>
+        <rect class="cls-5" x="0.5" y="0.5" width="13" height="4" rx="0.5"/>
+      </g>
+      <path id="减去_82" data-name="减去 82" class="cls-3" d="M-2036-10381h-10.587a1.519,1.519,0,0,0,.085-.5,1.5,1.5,0,0,0-.084-.5H-2036Zm-13.415,0H-2060v-1h10.584a1.489,1.489,0,0,0-.086.5,1.5,1.5,0,0,0,.085.5Z" transform="translate(3286 10848)"/>
+      <g id="椭圆_450" data-name="椭圆 450" class="cls-2" transform="translate(1236.5 465)">
+        <circle class="cls-4" cx="1.5" cy="1.5" r="1.5"/>
+        <circle class="cls-5" cx="1.5" cy="1.5" r="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="20" viewBox="0 0 60 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19780" data-name="组 19780" transform="translate(-989 -764)">
+    <g id="矩形_3466" data-name="矩形 3466" class="cls-1" transform="translate(989 764)">
+      <rect class="cls-3" width="60" height="20"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="59" height="19"/>
+    </g>
+    <g id="组_6607" data-name="组 6607" transform="translate(-2 -27)">
+      <rect id="矩形_3457" data-name="矩形 3457" class="cls-2" width="31" height="2" transform="translate(1005.5 800.5)"/>
+      <rect id="矩形_3458" data-name="矩形 3458" class="cls-2" width="15" height="2" transform="translate(1007 794) rotate(90)"/>
+    </g>
+  </g>
+</svg>

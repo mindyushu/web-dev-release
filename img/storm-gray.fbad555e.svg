@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #333;
+      }
+
+      .cls-3 {
+        stroke-width: 0.8px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_3657" data-name="组 3657" transform="translate(-608 -32)">
+    <g id="矩形_2291" data-name="矩形 2291" class="cls-1" transform="translate(608 32)">
+      <rect class="cls-5" width="22" height="22"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="21" height="21"/>
+    </g>
+    <g id="组_3655" data-name="组 3655" transform="translate(489.189 -166.518)">
+      <g id="矩形_1005" data-name="矩形 1005" class="cls-2" transform="translate(121.811 201.518)">
+        <rect class="cls-5" width="16" height="16"/>
+        <rect class="cls-6" x="0.5" y="0.5" width="15" height="15"/>
+      </g>
+      <g id="图层_2" data-name="图层 2" transform="translate(123.819 202.028)">
+        <g id="图层_1" data-name="图层 1" transform="translate(0 0)">
+          <rect id="矩形_1140" data-name="矩形 1140" class="cls-3" width="4.21" height="1.079" rx="0.539" transform="translate(4.083 13.903)"/>
+          <path id="路径_2223" data-name="路径 2223" class="cls-4" d="M12.315,5.906a5.746,5.746,0,0,0-1.9-4.278A6.392,6.392,0,0,0,5.835-.011,6.156,6.156,0,0,0,.1,4.653a5.832,5.832,0,0,0,3.194,6.5.665.665,0,0,1,.365.614h0a.664.664,0,0,0,.206.485.737.737,0,0,0,.508.2h3.6a.738.738,0,0,0,.51-.2.664.664,0,0,0,.208-.487v-.029a.658.658,0,0,1,.357-.592,5.882,5.882,0,0,0,3.27-5.238Z" transform="translate(0.045 0.017)"/>
+          <path id="路径_2224" data-name="路径 2224" class="cls-3" d="M13.068,19h1.616a.364.364,0,0,1,.364.364h0a1.092,1.092,0,0,1-1.092,1.092H13.8a1.092,1.092,0,0,1-1.092-1.092h0A.364.364,0,0,1,13.068,19Z" transform="translate(-7.685 -11.74)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

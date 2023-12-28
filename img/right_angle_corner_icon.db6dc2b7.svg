@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="30" viewBox="0 0 35 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #666;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: #333;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19463" data-name="组 19463" transform="translate(-231 -583)">
+    <g id="矩形_12541" data-name="矩形 12541" class="cls-1" transform="translate(231 583)">
+      <rect class="cls-4" width="35" height="30"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="34" height="29"/>
+    </g>
+    <g id="组_18601" data-name="组 18601" transform="translate(-61.219 0.027)">
+      <path id="路径_721" data-name="路径 721" class="cls-2" d="M-13652.693,6539.629" transform="translate(13955.693 -5939.629)"/>
+      <path id="路径_722" data-name="路径 722" class="cls-3" d="M-13652.693,6550h13.437" transform="translate(13958.193 -5952.027)"/>
+      <path id="路径_730" data-name="路径 730" class="cls-3" d="M-13351.424,6656.054h-9.8v23.836h9.8" transform="translate(13669.729 -6070)"/>
+      <path id="路径_24227" data-name="路径 24227" class="cls-3" d="M-13652.693,6550h8" transform="translate(13953.193 -5952.027)"/>
+    </g>
+  </g>
+</svg>

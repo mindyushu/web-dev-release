@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="89" viewBox="0 0 89 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8d8d8;
+        stroke: #979797;
+        stroke-miterlimit: 10;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #f75151;
+      }
+
+      .cls-3 {
+        fill: #7287fb;
+      }
+
+      .cls-4 {
+        fill: #93ff7f;
+      }
+    </style>
+  </defs>
+  <g id="编组_19" data-name="编组 19" transform="translate(0.5 0.5)">
+    <rect id="矩形备份_5" data-name="矩形备份 5" class="cls-1" width="88" height="88"/>
+    <g id="编组_12" data-name="编组 12" transform="translate(12 12)">
+      <path id="形状结合" class="cls-2" d="M31,62A31.008,31.008,0,0,1,18.933,2.436,30.806,30.806,0,0,1,31,0V31H62A30.974,30.974,0,0,1,31,62Z" transform="translate(0 2)"/>
+      <path id="形状结合-2" data-name="形状结合" class="cls-3" d="M0,31V0A31,31,0,0,1,31,31Z" transform="translate(33)"/>
+      <path id="形状结合-3" data-name="形状结合" class="cls-4" d="M0,31V0A31,31,0,0,1,31,31Z" transform="translate(62 33) rotate(90)"/>
+    </g>
+  </g>
+</svg>

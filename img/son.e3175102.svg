@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19211" data-name="组 19211" transform="translate(0 3)">
+    <g id="矩形_13450" data-name="矩形 13450" class="cls-1" transform="translate(0 -3)">
+      <rect class="cls-4" width="22" height="22"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="21" height="21"/>
+    </g>
+    <g id="组_19208" data-name="组 19208" transform="translate(3.25 4.5)">
+      <rect id="矩形_13447" data-name="矩形 13447" class="cls-2" width="11.5" height="6.5" rx="1" transform="translate(5 0.25)"/>
+      <rect id="矩形_13448" data-name="矩形 13448" class="cls-3" width="4" height="4" rx="1" transform="translate(-1 1.75)"/>
+      <rect id="矩形_13451" data-name="矩形 13451" class="cls-3" width="3" height="1.5" transform="translate(2.75 3)"/>
+    </g>
+  </g>
+</svg>

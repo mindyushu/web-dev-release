@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #666;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_6758" data-name="组 6758" transform="translate(-4129 -12443)">
+    <g id="矩形_3543" data-name="矩形 3543" class="cls-1" transform="translate(4129 12443)">
+      <rect class="cls-4" width="36" height="36" rx="2"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="35" height="35" rx="1.5"/>
+    </g>
+    <g id="组_6753" data-name="组 6753" transform="translate(140.559 3.901)">
+      <g id="组_6750" data-name="组 6750" transform="translate(3996.159 12445.398)">
+        <rect id="矩形_3540" data-name="矩形 3540" class="cls-2" width="20.398" height="12.057" rx="1" transform="translate(0.001 0)"/>
+        <rect id="矩形_3541" data-name="矩形 3541" class="cls-2" width="3.55" height="3.55" rx="1.775" transform="translate(2.559 2.437)"/>
+        <path id="路径_7632" data-name="路径 7632" class="cls-2" d="M3894.812,1766.309c.952-2.053,2.325-3.342,3.852-3.342,1.67,0,3.157,1.543,4.109,3.94" transform="translate(-3894.812 -1754.851)"/>
+        <path id="路径_7633" data-name="路径 7633" class="cls-2" d="M3904.192,1760.018c.4-4.208,5.813-7.583,12.6-7.879" transform="translate(-3896.39 -1747.962)"/>
+      </g>
+      <line id="直线_453" data-name="直线 453" class="cls-3" x2="20.108" transform="translate(3996.616 12460.572)"/>
+      <line id="直线_454" data-name="直线 454" class="cls-3" x2="4.57" transform="translate(3996.616 12468.799)"/>
+      <line id="直线_455" data-name="直线 455" class="cls-3" x2="6.398" transform="translate(3996.616 12463.314)"/>
+      <line id="直线_456" data-name="直线 456" class="cls-3" x2="17.366" transform="translate(3996.616 12466.057)"/>
+    </g>
+  </g>
+</svg>

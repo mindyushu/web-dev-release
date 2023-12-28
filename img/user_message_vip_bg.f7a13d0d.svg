@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="132" viewBox="0 0 102 132">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5c164;
+      }
+
+      .cls-2 {
+        fill: #ffe09e;
+      }
+
+      .cls-3 {
+        fill: #f9cf7e;
+      }
+
+      .cls-4 {
+        fill: #ffe19f;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe5ac"/>
+      <stop offset="1" stop-color="#ffbb43"/>
+    </linearGradient>
+  </defs>
+  <g id="组_6119" data-name="组 6119" transform="translate(1.739 5)">
+    <g id="组_1049" data-name="组 1049" transform="translate(24.261 -5)">
+      <path id="路径_796" data-name="路径 796" class="cls-1" d="M60.26,382.066l39.667,22.669a1.6,1.6,0,0,1-.794,3H66.3a3.209,3.209,0,0,1-3.184-2.811Z" transform="translate(-57.051 -371.734)"/>
+      <path id="路径_797" data-name="路径 797" class="cls-1" d="M244.271,382.066l-2.856,22.857a3.209,3.209,0,0,1-3.184,2.81H205.4a1.6,1.6,0,0,1-.8-3l39.668-22.669Z" transform="translate(-193.48 -371.734)"/>
+      <path id="路径_798" data-name="路径 798" class="cls-2" d="M189.1,261.6l17.371,26.367a3.083,3.083,0,0,1,.128,3.187,3.168,3.168,0,0,1-2.778,1.631h-29.44a3.168,3.168,0,0,1-2.778-1.631,3.084,3.084,0,0,1,.128-3.187Z" transform="translate(-162.103 -256.791)"/>
+      <path id="路径_799" data-name="路径 799" class="cls-3" d="M512.014,261.6l17.632,26.367a3.045,3.045,0,0,1,.13,3.187,3.224,3.224,0,0,1-2.82,1.631H512.014Z" transform="translate(-485.149 -256.791)"/>
+      <path id="路径_800" data-name="路径 800" class="cls-4" d="M23.83,174.444a3.177,3.177,0,1,0,3.177-3.209,3.193,3.193,0,0,0-3.177,3.209Zm23.824,6.417a3.177,3.177,0,1,0,3.177-3.209,3.192,3.192,0,0,0-3.177,3.209Zm-47.647,0a3.177,3.177,0,1,0,3.177-3.209,3.192,3.192,0,0,0-3.177,3.209Z" transform="translate(-0.007 -171.236)"/>
+    </g>
+    <circle id="椭圆_106" data-name="椭圆 106" class="cls-5" cx="51" cy="51" r="51" transform="translate(-1.739 25)"/>
+  </g>
+</svg>

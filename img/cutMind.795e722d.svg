@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19604" data-name="组 19604" transform="translate(-10543.5 -6859.5)">
+    <g id="矩形_2390" data-name="矩形 2390" class="cls-1" transform="translate(10543.5 6859.5)">
+      <rect class="cls-3" width="22" height="22"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="21" height="21"/>
+    </g>
+    <g id="组_19235" data-name="组 19235" transform="translate(42.089 3.324)">
+      <g id="组_4061" data-name="组 4061" transform="translate(10505.5 6868.938)">
+        <path id="联合_102" data-name="联合 102" class="cls-2" d="M4.191,5.252.25,1.309A.75.75,0,0,1,.75,0H13.073a.75.75,0,0,1,0,1.5H2.562L5.252,4.19A.75.75,0,0,1,4.191,5.252Z" transform="translate(0)"/>
+      </g>
+      <g id="组_19603" data-name="组 19603" transform="translate(10505.5 6859.943)">
+        <path id="联合_102-2" data-name="联合 102" class="cls-2" d="M4.191,5.252.247,1.307l0,0A.75.75,0,0,1,.75,0H13.073a.75.75,0,0,1,0,1.5H2.562L5.252,4.19a.75.75,0,0,1-1.06,1.061Z" transform="translate(13.822 5.471) rotate(180)"/>
+      </g>
+    </g>
+  </g>
+</svg>

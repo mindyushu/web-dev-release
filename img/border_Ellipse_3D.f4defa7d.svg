@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #333;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19387" data-name="组 19387" transform="translate(-1177 -637)">
+    <g id="矩形_13599" data-name="矩形 13599" class="cls-1" transform="translate(1177 637)">
+      <rect class="cls-3" width="28" height="28"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="27" height="27"/>
+    </g>
+    <g id="组_5957" data-name="组 5957" transform="translate(408.713 1295.242)">
+      <ellipse id="椭圆_455" data-name="椭圆 455" class="cls-2" cx="9.288" cy="2.501" rx="9.288" ry="2.501" transform="translate(773 -650.91)"/>
+      <path id="路径_7295" data-name="路径 7295" class="cls-2" d="M791.576-648.409c0-1.381-4.158-2.5-9.288-2.5s-9.288,1.12-9.288,2.5v.118l.013,8.574c.254,1.194,4.31,2.143,9.275,2.143s9.021-.949,9.275-2.143l.013-8.574Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

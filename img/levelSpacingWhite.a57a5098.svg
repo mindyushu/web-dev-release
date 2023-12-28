@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19967" data-name="组 19967" transform="translate(15759 18127)">
+    <g id="矩形_12194" data-name="矩形 12194" class="cls-1" transform="translate(-15759 -18127)">
+      <rect class="cls-4" width="18" height="18"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="17" height="17"/>
+    </g>
+    <g id="组_17466" data-name="组 17466" transform="translate(-15757.015 -18121.869)">
+      <g id="组_17461" data-name="组 17461" transform="translate(0)">
+        <g id="矩形_12192" data-name="矩形 12192" class="cls-2" transform="translate(9.079)">
+          <rect class="cls-4" width="4.952" height="3.301" rx="0.5"/>
+          <rect class="cls-5" x="0.5" y="0.5" width="3.952" height="2.301"/>
+        </g>
+        <g id="矩形_12195" data-name="矩形 12195" class="cls-2" transform="translate(0)">
+          <rect class="cls-4" width="4.952" height="3.301" rx="0.5"/>
+          <rect class="cls-5" x="0.5" y="0.5" width="3.952" height="2.301"/>
+        </g>
+      </g>
+      <g id="组_17460" data-name="组 17460" transform="translate(13.481 4.008) rotate(90)">
+        <rect id="矩形_12193" data-name="矩形 12193" class="cls-3" width="1" height="10.956" transform="translate(1.377 0.988)"/>
+        <path id="多边形_118" data-name="多边形 118" class="cls-3" d="M1.7.17a.2.2,0,0,1,.3,0l1.41,1.6a.2.2,0,0,1-.15.332H.443a.2.2,0,0,1-.15-.332Z" transform="translate(3.731 12.997) rotate(180)"/>
+        <path id="多边形_145" data-name="多边形 145" class="cls-3" d="M1.7.17a.2.2,0,0,1,.3,0l1.411,1.6a.2.2,0,0,1-.15.332H.443a.2.2,0,0,1-.15-.332Z" transform="translate(0.023 -0.063)"/>
+      </g>
+      <rect id="矩形_12196" data-name="矩形 12196" class="cls-3" width="1" height="5.08" transform="translate(9.556 1.15) rotate(90)"/>
+    </g>
+  </g>
+</svg>

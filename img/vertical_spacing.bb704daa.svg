@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #333;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #333;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19966" data-name="组 19966" transform="translate(15712.393 18127.393)">
+    <g id="组_17465" data-name="组 17465" transform="translate(-15712.242 -18127.242)">
+      <g id="矩形_12194" data-name="矩形 12194" class="cls-1" transform="translate(-0.15 -0.15)">
+        <rect class="cls-5" width="18" height="18"/>
+        <rect class="cls-6" x="0.5" y="0.5" width="17" height="17"/>
+      </g>
+    </g>
+    <g id="组_17468" data-name="组 17468" transform="translate(-15709.852 -18124.941)">
+      <g id="组_17463" data-name="组 17463" transform="translate(0)">
+        <g id="组_17461" data-name="组 17461">
+          <path id="路径_24191" data-name="路径 24191" class="cls-2" d="M408.323,199.248H405.5V190.5h2.823" transform="translate(-405.5 -188.462)"/>
+          <g id="矩形_12192" data-name="矩形 12192" class="cls-3" transform="translate(2.238 8.746)">
+            <rect class="cls-5" width="6.109" height="4.075" rx="0.5"/>
+            <rect class="cls-6" x="0.5" y="0.5" width="5.109" height="3.075"/>
+          </g>
+          <g id="矩形_12195" data-name="矩形 12195" class="cls-3" transform="translate(2.238)">
+            <rect class="cls-5" width="6.109" height="4.075" rx="0.5"/>
+            <rect class="cls-6" x="0.5" y="0.5" width="5.109" height="3.075"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_17467" data-name="组 17467" transform="translate(12.415 12.821) rotate(180)">
+        <rect id="矩形_12193" data-name="矩形 12193" class="cls-4" width="1" height="9.187" transform="translate(1.135 1.602)"/>
+        <path id="多边形_118" data-name="多边形 118" class="cls-4" d="M1.993.138a.2.2,0,0,1,.281,0L3.919,1.761a.2.2,0,0,1-.14.342H.488a.2.2,0,0,1-.14-.342Z" transform="translate(3.769 12.894) rotate(180)"/>
+        <path id="多边形_144" data-name="多边形 144" class="cls-4" d="M1.993.138a.2.2,0,0,1,.281,0L3.92,1.761a.2.2,0,0,1-.14.342H.488a.2.2,0,0,1-.14-.342Z" transform="translate(-0.501 -0.346)"/>
+      </g>
+    </g>
+  </g>
+</svg>

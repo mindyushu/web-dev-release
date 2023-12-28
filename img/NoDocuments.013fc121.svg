@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.998" height="101.742" viewBox="0 0 111.998 101.742">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f4f4f4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #e1e1e1;
+      }
+
+      .cls-4 {
+        fill: #f5f5f5;
+      }
+
+      .cls-5 {
+        fill: #e4e4e4;
+      }
+
+      .cls-6 {
+        fill: #b2b2b2;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #e9e9e9;
+      }
+
+      .cls-7 {
+        stroke: #a1a1a1;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="组_4066" data-name="组 4066" transform="translate(-132 -260.807)">
+    <g id="组_4044" data-name="组 4044" transform="translate(132 270.089)">
+      <g id="组_4042" data-name="组 4042" transform="translate(0 14.3)">
+        <g id="Group" transform="translate(0 0)">
+          <path id="Fill_1" data-name="Fill 1" class="cls-1" d="M112,8.968c0,4.953-25.072,8.968-56,8.968S0,13.921,0,8.968,25.072,0,56,0s56,4.015,56,8.968" transform="translate(0 60.224)"/>
+          <path id="Fill_11" data-name="Fill 11" class="cls-2" d="M3.7.631A2.167,2.167,0,1,1,.631.639,2.168,2.168,0,0,1,3.7.631" transform="translate(45.636 2.829)"/>
+          <path id="Fill_13" data-name="Fill 13" class="cls-2" d="M15.243,10.8A14.524,14.524,0,0,0,9.537,5.135,14.538,14.538,0,0,0,1.625,3.4,1.859,1.859,0,0,1,.006,1.9,1.928,1.928,0,0,1,2.128,0a18.5,18.5,0,0,1,8.981,2.3,18.526,18.526,0,0,1,6.871,6.631,1.922,1.922,0,0,1-.961,2.621,1.78,1.78,0,0,1-1.775-.752" transform="translate(51.577 2.63)"/>
+          <path id="Fill_15" data-name="Fill 15" class="cls-3" d="M7.3,3.648A3.648,3.648,0,1,1,3.648,0,3.648,3.648,0,0,1,7.3,3.648" transform="translate(6.316 37.198)"/>
+          <path id="Fill_17" data-name="Fill 17" class="cls-4" d="M6.061,3.03A3.031,3.031,0,1,1,3.031,0,3.03,3.03,0,0,1,6.061,3.03" transform="translate(90.988 33.618)"/>
+          <path id="Fill_19" data-name="Fill 19" class="cls-5" d="M5.66,2.829A2.83,2.83,0,1,1,2.83,0,2.83,2.83,0,0,1,5.66,2.829" transform="translate(95.431 0)"/>
+        </g>
+      </g>
+      <g id="组_4043" data-name="组 4043" transform="translate(56.919 0)">
+        <path id="Fill_11-2" data-name="Fill 11" class="cls-2" d="M3,.513A1.761,1.761,0,1,1,.512.519,1.762,1.762,0,0,1,3,.513" transform="matrix(0.978, 0.208, -0.208, 0.978, 0.732, 0)"/>
+        <path id="Fill_13-2" data-name="Fill 13" class="cls-2" d="M12.386,8.778A11.8,11.8,0,0,0,7.749,4.172,11.813,11.813,0,0,0,1.321,2.764,1.511,1.511,0,0,1,.005,1.543,1.566,1.566,0,0,1,1.729,0a15.031,15.031,0,0,1,7.3,1.869,15.054,15.054,0,0,1,5.583,5.388,1.562,1.562,0,0,1-.781,2.13,1.447,1.447,0,0,1-1.442-.611" transform="matrix(0.978, 0.208, -0.208, 0.978, 5.488, 0.846)"/>
+      </g>
+    </g>
+    <g id="组_4053" data-name="组 4053" transform="translate(149.138 261.807)">
+      <path id="路径_5561" data-name="路径 5561" class="cls-6" d="M185.961,149.333l-19.131-18.5a3.9,3.9,0,0,0-2.989-1.456H130.369a3.9,3.9,0,0,0-2.987,1.456l-19.242,18.5.056,10.811h77.818V150.087l-.055-.754Zm0,0" transform="translate(-108.14 -103.998)"/>
+      <g id="组_4054" data-name="组 4054" transform="translate(12.013 0)">
+        <rect id="矩形_2369" data-name="矩形 2369" class="cls-7" width="54.201" height="71.198" rx="5.05" transform="translate(0 0)"/>
+        <g id="组_4045" data-name="组 4045" transform="translate(8.728 10.351)">
+          <rect id="矩形_2370" data-name="矩形 2370" class="cls-2" width="37.199" height="12.715" rx="1.839" transform="translate(0)"/>
+          <rect id="矩形_2371" data-name="矩形 2371" class="cls-2" width="35.834" height="3.891" rx="1.945" transform="translate(0 29.792)"/>
+          <rect id="矩形_2372" data-name="矩形 2372" class="cls-2" width="19.142" height="3.891" rx="1.945" transform="translate(0 39.751)"/>
+          <rect id="矩形_2373" data-name="矩形 2373" class="cls-2" width="6.095" height="3.891" rx="1.945" transform="translate(21.985 39.751)"/>
+          <rect id="矩形_2374" data-name="矩形 2374" class="cls-2" width="36.77" height="3.891" rx="1.945" transform="translate(0 19.76)"/>
+        </g>
+      </g>
+      <path id="路径_5566" data-name="路径 5566" class="cls-8" d="M181.525,188.7H112.759a4.588,4.588,0,0,1-4.382-3.573,4.969,4.969,0,0,1-.144-1.194v-22.38h20.743a3.527,3.527,0,0,1,3.419,3.613v.026a3.507,3.507,0,0,0,3.433,3.582h22.632a3.52,3.52,0,0,0,3.435-3.6,3.531,3.531,0,0,1,3.415-3.625h20.74v22.38a5.019,5.019,0,0,1-.144,1.194,4.587,4.587,0,0,1-4.383,3.573Zm0,0" transform="translate(-108.175 -116.265)"/>
+    </g>
+  </g>
+</svg>

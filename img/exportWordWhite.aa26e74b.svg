@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 1.2px;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_7028" data-name="组 7028" transform="translate(-241 -254)">
+    <g id="矩形_3593" data-name="矩形 3593" class="cls-1" transform="translate(241 254)">
+      <rect class="cls-6" width="22" height="22"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="21" height="21"/>
+    </g>
+    <g id="组_7027" data-name="组 7027" transform="translate(-219.7 -9.305)">
+      <path id="减去_90" data-name="减去 90" class="cls-2" d="M21333.063,16583.678h-7.1a1.263,1.263,0,0,1-1.264-1.258v-9.576l3.508-3.541h9.609a1.263,1.263,0,0,1,1.258,1.264v7.08h-5.008a1,1,0,0,0-1,1v5.029Z" transform="translate(-20860.908 -16302.896)"/>
+      <rect id="矩形_3601" data-name="矩形 3601" class="cls-3" width="9.233" height="1.175" rx="0.588" transform="translate(466.442 271.783)"/>
+      <rect id="矩形_3602" data-name="矩形 3602" class="cls-3" width="3.539" height="1.175" rx="0.588" transform="translate(466.442 274.523)"/>
+      <rect id="矩形_3603" data-name="矩形 3603" class="cls-3" width="3.539" height="1.175" rx="0.588" transform="translate(466.442 277.439)"/>
+      <rect id="矩形_3604" data-name="矩形 3604" class="cls-3" width="5.719" height="1.175" rx="0.588" transform="translate(469.956 268.845)"/>
+      <path id="路径_7713" data-name="路径 7713" class="cls-3" d="M482.49,286.387h-.015a.409.409,0,0,1-.373-.28l-.43-1.291-.431,1.291a.41.41,0,0,1-.373.28.405.405,0,0,1-.392-.251l-1.023-2.455a.409.409,0,1,1,.756-.315l.6,1.446.473-1.418a.41.41,0,0,1,.776,0l.473,1.418.6-1.446a.409.409,0,1,1,.755.315l-1.023,2.455a.408.408,0,0,1-.378.251Zm0,0" transform="translate(-5.787 -6.183)"/>
+      <path id="路径_7714" data-name="路径 7714" class="cls-4" d="M572.184,257.28v3.591a.288.288,0,0,1-.295.288l-3.636-.092" transform="translate(-104.462 9.561)"/>
+      <rect id="矩形_13561" data-name="矩形 13561" class="cls-5" width="7.452" height="7.452" rx="1" transform="translate(472.156 274.751)"/>
+    </g>
+  </g>
+</svg>

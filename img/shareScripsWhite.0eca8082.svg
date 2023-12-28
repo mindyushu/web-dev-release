@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_19883" data-name="组 19883" transform="translate(-586 -335)">
+    <g id="矩形_13812" data-name="矩形 13812" class="cls-1" transform="translate(586 335)">
+      <rect class="cls-4" width="22" height="22"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="21" height="21"/>
+    </g>
+    <g id="组_19881" data-name="组 19881" transform="translate(25 -28.361)">
+      <g id="组_19880" data-name="组 19880" transform="translate(7016 2847.245)">
+        <path id="路径_24915" data-name="路径 24915" class="cls-2" d="M-6438-2475.61v-3.52a.033.033,0,0,0-.028-.036h-1.381a.033.033,0,0,0-.028.036v1.736c0,.032-.029.048-.047.027l-2.4-2.868a.024.024,0,0,0-.038,0l-5.254,6.488c-.018.022-.006.062.02.062h2.925a.033.033,0,0,1,.028.036l-.01,2.065"/>
+        <path id="路径_24916" data-name="路径 24916" class="cls-2" d="M-6438.408-2472.694h2.831c.025,0,.038-.039.019-.061l-2.427-2.886v-3.48a.033.033,0,0,0-.028-.036h-1.381a.033.033,0,0,0-.028.036v1.716c0,.031-.029.047-.047.026l-2.4-2.835a.023.023,0,0,0-.038,0l-2.066,2.442a.024.024,0,0,1-.038,0l-2.084-2.463a.023.023,0,0,0-.038,0l-6.31,7.459c-.019.022-.006.061.019.061h3.056a.033.033,0,0,1,.028.036v6.643a.033.033,0,0,0,.028.036h7.679"/>
+      </g>
+      <g id="组_18731" data-name="组 18731" transform="translate(576.58 376.374)">
+        <rect id="矩形_12718" data-name="矩形 12718" class="cls-3" width="5.008" height="1" rx="0.5" transform="translate(1.951 0.34) rotate(90)"/>
+        <rect id="矩形_12719" data-name="矩形 12719" class="cls-3" width="3.426" height="1" rx="0.5" transform="translate(2.163 0.333) rotate(135)"/>
+        <rect id="矩形_12720" data-name="矩形 12720" class="cls-3" width="3.43" height="1" rx="0.5" transform="translate(1.446 -0.374) rotate(45)"/>
+      </g>
+    </g>
+  </g>
+</svg>

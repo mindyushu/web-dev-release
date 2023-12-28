@@ -1,0 +1,76 @@
+<svg id="组_997" data-name="组 997" xmlns="http://www.w3.org/2000/svg" width="35" height="30" viewBox="0 0 35 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3f3f3;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke: #666;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_531" data-name="矩形 531" class="cls-1" width="12" height="24" transform="translate(0 6)"/>
+  <rect id="矩形_529" data-name="矩形 529" class="cls-2" width="35" height="6"/>
+  <g id="矩形_532" data-name="矩形 532" class="cls-3" transform="translate(12 6)">
+    <rect class="cls-5" width="7" height="24"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="6" height="23"/>
+  </g>
+  <g id="矩形_535" data-name="矩形 535" class="cls-3" transform="translate(26 6)">
+    <rect class="cls-5" width="9" height="6"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="5"/>
+  </g>
+  <g id="矩形_538" data-name="矩形 538" class="cls-3" transform="translate(26 11)">
+    <rect class="cls-5" width="9" height="6"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="5"/>
+  </g>
+  <g id="矩形_540" data-name="矩形 540" class="cls-3" transform="translate(26 16)">
+    <rect class="cls-5" width="9" height="6"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="5"/>
+  </g>
+  <g id="矩形_542" data-name="矩形 542" class="cls-3" transform="translate(26 21)">
+    <rect class="cls-5" width="9" height="5"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="4"/>
+  </g>
+  <g id="矩形_544" data-name="矩形 544" class="cls-3" transform="translate(26 25)">
+    <rect class="cls-5" width="9" height="5"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="4"/>
+  </g>
+  <g id="矩形_536" data-name="矩形 536" class="cls-3" transform="translate(18 6)">
+    <rect class="cls-5" width="9" height="6"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="5"/>
+  </g>
+  <g id="矩形_537" data-name="矩形 537" class="cls-3" transform="translate(18 11)">
+    <rect class="cls-5" width="9" height="6"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="5"/>
+  </g>
+  <g id="矩形_539" data-name="矩形 539" class="cls-3" transform="translate(18 16)">
+    <rect class="cls-5" width="9" height="6"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="5"/>
+  </g>
+  <g id="矩形_541" data-name="矩形 541" class="cls-3" transform="translate(18 21)">
+    <rect class="cls-5" width="9" height="5"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="4"/>
+  </g>
+  <g id="矩形_543" data-name="矩形 543" class="cls-3" transform="translate(18 25)">
+    <rect class="cls-5" width="9" height="5"/>
+    <rect class="cls-6" x="0.5" y="0.5" width="8" height="4"/>
+  </g>
+  <path id="路径_737" data-name="路径 737" class="cls-4" d="M541,496.5" transform="translate(-535 -469)"/>
+</svg>

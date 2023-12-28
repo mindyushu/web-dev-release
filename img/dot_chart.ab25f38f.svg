@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="89" viewBox="0 0 89 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8d8d8;
+        stroke: #979797;
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+        stroke: #333;
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #333;
+      }
+
+      .cls-5 {
+        fill: #dd3131;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #ffd91f;
+      }
+
+      .cls-8 {
+        fill: #654ccc;
+      }
+
+      .cls-9 {
+        fill: #fc95c9;
+      }
+    </style>
+  </defs>
+  <g id="编组_15" data-name="编组 15" transform="translate(0.5 0.5)">
+    <rect id="矩形" class="cls-1" width="88" height="88"/>
+    <g id="编组_2" data-name="编组 2" transform="translate(7 14)">
+      <g id="编组_9备份" data-name="编组 9备份">
+        <path id="路径" class="cls-2" d="M70.476,56.471H0V0" transform="translate(3.524 3.529)"/>
+        <path id="三角形备份" class="cls-3" d="M3.339.358a.2.2,0,0,1,.357,0l3.195,6.4a.2.2,0,0,1-.179.289H.323a.2.2,0,0,1-.179-.289Z"/>
+      </g>
+      <g id="组_2194" data-name="组 2194">
+        <path id="直线" class="cls-4" d="M.8,7.2,10.967-3.378" transform="translate(17 39)"/>
+        <path id="直线-2" data-name="直线" class="cls-4" d="M0,1.111,16.314.889" transform="translate(30.318 33.113)"/>
+        <path id="直线备份" class="cls-4" d="M0,18.338,17.637,0" transform="translate(49.477 15.662)"/>
+        <g id="编组_10" data-name="编组 10" transform="translate(12 42)">
+          <circle id="椭圆形" class="cls-5" cx="4" cy="4" r="4" transform="translate(0 0)"/>
+          <circle id="椭圆形备份_3" data-name="椭圆形备份 3" class="cls-6" cx="2" cy="2" r="2" transform="translate(2 2)"/>
+        </g>
+        <g id="编组_10备份" data-name="编组 10备份" transform="translate(26.145 30.459)">
+          <circle id="椭圆形-2" data-name="椭圆形" class="cls-7" cx="4" cy="4" r="4" transform="translate(-0.145 -0.459)"/>
+          <circle id="椭圆形备份_3-2" data-name="椭圆形备份 3" class="cls-6" cx="2" cy="2" r="2" transform="translate(1.855 1.541)"/>
+        </g>
+        <g id="编组_10备份-2" data-name="编组 10备份" transform="translate(44.148 30.459)">
+          <circle id="椭圆形-3" data-name="椭圆形" class="cls-8" cx="4" cy="4" r="4" transform="translate(-0.148 -0.459)"/>
+          <circle id="椭圆形备份_3-3" data-name="椭圆形备份 3" class="cls-6" cx="2" cy="2" r="2" transform="translate(1.852 1.541)"/>
+        </g>
+        <g id="编组_10备份_2" data-name="编组 10备份 2" transform="translate(64.723 10.264)">
+          <circle id="椭圆形-4" data-name="椭圆形" class="cls-9" cx="4" cy="4" r="4" transform="translate(0.277 -0.264)"/>
+          <circle id="椭圆形备份_3-4" data-name="椭圆形备份 3" class="cls-6" cx="2" cy="2" r="2" transform="translate(2.277 1.736)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="30" viewBox="0 0 35 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #666;
+      }
+
+      .cls-3 {
+        stroke: #333;
+        stroke-width: 1.3px;
+      }
+    </style>
+  </defs>
+  <g id="组_19806" data-name="组 19806" transform="translate(33 -2) rotate(90)">
+    <rect id="矩形_526" data-name="矩形 526" class="cls-1" width="11" height="6" transform="translate(26 9) rotate(-90)"/>
+    <rect id="矩形_527" data-name="矩形 527" class="cls-1" width="11" height="6" transform="translate(26 21) rotate(-90)"/>
+    <rect id="矩形_529" data-name="矩形 529" class="cls-1" width="12" height="6" transform="translate(8 9) rotate(90)"/>
+    <rect id="矩形_528" data-name="矩形 528" class="cls-1" width="11" height="6" transform="translate(26 33) rotate(-90)"/>
+    <path id="路径_721" data-name="路径 721" class="cls-2" d="M-13652.693,6539.629" transform="translate(13662.693 -6522.629)"/>
+    <path id="路径_722" data-name="路径 722" class="cls-3" d="M-13652.693,6550h18.873" transform="translate(13660.213 -6535)"/>
+    <path id="路径_730" data-name="路径 730" class="cls-3" d="M-13349.51,6656.055h-11.719v26h11.719" transform="translate(13375.902 -6653.555)"/>
+  </g>
+</svg>

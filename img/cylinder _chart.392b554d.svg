@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="89" viewBox="0 0 89 89">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d8d8d8;
+        stroke: #979797;
+        opacity: 0;
+      }
+
+      .cls-1, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fc95c9;
+      }
+
+      .cls-3 {
+        fill: #ff6caf;
+      }
+
+      .cls-4 {
+        fill: #ffee15;
+      }
+
+      .cls-5 {
+        fill: #ffd91f;
+      }
+
+      .cls-6 {
+        fill: #9274ed;
+      }
+
+      .cls-7 {
+        fill: #654ccc;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #333;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-9 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="编组_17" data-name="编组 17" transform="translate(0.5 0.5)">
+    <rect id="矩形备份_2" data-name="矩形备份 2" class="cls-1" width="88" height="88"/>
+    <g id="编组_8" data-name="编组 8" transform="translate(7 14)">
+      <g id="编组_3" data-name="编组 3" transform="translate(12 11.447)">
+        <rect id="矩形" class="cls-2" width="11" height="46.52" transform="translate(0 2.326)"/>
+        <ellipse id="椭圆形" class="cls-3" cx="5.5" cy="2.326" rx="5.5" ry="2.326" transform="translate(0 0)"/>
+      </g>
+      <g id="编组_4" data-name="编组 4" transform="translate(33 23)">
+        <rect id="矩形备份" class="cls-4" width="11" height="35.238" transform="translate(0 1.762)"/>
+        <ellipse id="椭圆形备份" class="cls-5" cx="5.5" cy="1.762" rx="5.5" ry="1.762" transform="translate(0 0)"/>
+      </g>
+      <g id="编组_5" data-name="编组 5" transform="translate(54 32)">
+        <rect id="矩形备份_2-2" data-name="矩形备份 2" class="cls-6" width="11" height="26.25" transform="translate(0 1.75)"/>
+        <ellipse id="椭圆形备份_2" data-name="椭圆形备份 2" class="cls-7" cx="5.5" cy="1.75" rx="5.5" ry="1.75"/>
+      </g>
+      <path id="路径备份" class="cls-8" d="M70,57H0V0" transform="translate(4 3)"/>
+      <path id="三角形" class="cls-9" d="M2.964.345a.178.178,0,0,1,.318,0L6.1,5.99a.178.178,0,0,1-.159.257H.3A.178.178,0,0,1,.142,5.99Z" transform="translate(1)"/>
+    </g>
+  </g>
+</svg>

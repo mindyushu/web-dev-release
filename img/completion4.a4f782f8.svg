@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #31d679;
+      }
+
+      .cls-2 {
+        fill: #20b759;
+      }
+
+      .cls-3 {
+        stroke: #20b759;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_17408" data-name="组 17408" transform="translate(0 -0.002)">
+    <g id="椭圆_1045" data-name="椭圆 1045" class="cls-1" transform="translate(0 0.002)">
+      <circle class="cls-4" cx="8" cy="8" r="8"/>
+      <circle class="cls-5" cx="8" cy="8" r="7.5"/>
+    </g>
+    <path id="减去_86" data-name="减去 86" class="cls-2" d="M7.221,8h0a8.009,8.009,0,0,1-8-8A7.967,7.967,0,0,1,2.958-6.769L7.221,0V8Z" transform="translate(15.221 8.004) rotate(180)"/>
+    <g id="椭圆_1047" data-name="椭圆 1047" class="cls-3" transform="translate(0 0.002)">
+      <circle class="cls-4" cx="8" cy="8" r="8"/>
+      <circle class="cls-5" cx="8" cy="8" r="7.5"/>
+    </g>
+  </g>
+</svg>
